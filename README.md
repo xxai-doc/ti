@@ -7,3 +7,4 @@
 * [ናይ ቅድሚት ኮድ](https://github.com/xxai-art/web)
 * [ንኹሉ እቲ መርበብ ሓበሬታ ዝኸውን ናይ ቋንቋ ዕሹግ](https://github.com/xxai-art/web/tree/main/i18n)
 * [ናይ ቋንቋ ፓክስ ንመእተዊ ሞዱላት](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ዌብሳይት ብዙሕ ቋንቋታት ዝሓዘ ሰነድ](https://github.com/xxai-doc)
